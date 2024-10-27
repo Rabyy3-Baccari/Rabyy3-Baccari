@@ -1,24 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rabi3 Baccari
-=====================================================================================================================================
-
-AI Research Student
--------------------
-
-* 🌍  I'm based in Tunisia
-* ✉️  You can contact me at [rabi3.baccari@gmail.com](mailto:rabi3.baccari@gmail.com)
-* 🧠  I'm learning Jax, Rust , High Performance Computing
-* 🤝  I'm open to collaborating on LLM , RL and AI in Biology
-* 🚀 I have a fascination with space and the universe 
-* ⚡  If you think AI is safe i recommend you watch Person of Interet
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+<!-- Header with Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Raby+Baccari;AI+%26+Computer+Vision+Developer&center=true&width=380&height=50">
 </p>
 
+<!-- Profile Views Counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Rabyy3-Baccari&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
+</p>
 
-### Socials
+# Hi there! 👋
 
-<p align="left"> <a href="https://www.github.com/Rabyy3-Baccari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raby3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I'm a passionate developer focused on AI and Computer Vision, constantly exploring new technologies and pushing the boundaries of what's possible in urban change detection and image analysis.
+
+## 🚀 About Me
+
+```python
+class RabyBaccari:
+    def __init__(self):
+        self.name = "Raby Baccari"
+        self.role = "AI & Computer Vision Developer"
+        self.languages = ["Python", "C++", "MATLAB"]
+        self.ai_stack = ["PyTorch", "TensorFlow", "OpenCV"]
+        self.current_focus = "UNet Architecture for Urban Change Detection"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together.")
+
+me = RabyBaccari()
+me.say_hi()
+```
+
+## 🔭 Current Projects
+
+### UNet Architecture for Urban Change Detection
+- 🎯 Developing deep learning models for urban development analysis
+- 📊 Implementing state-of-the-art computer vision techniques
+- 🌍 Contributing to sustainable urban planning through AI
+- 🤝 Open to collaboration and knowledge sharing
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabyy3-Baccari&show_icons=true&theme=radical" alt="github-stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabyy3-Baccari&theme=radical" alt="streak-stats">
+</p>
+
+## 🌟 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Rabyy3-Baccari/UNet-Architecture-Urban-change-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabyy3-Baccari&repo=UNet-Architecture-Urban-change-detection&theme=radical">
+  </a>
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rabyy3-Baccari&theme=redical">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+</p>
+
+<!-- Snake Animation -->
+![Snake animation](https://github.com/Rabyy3-Baccari/Rabyy3-Baccari/blob/output/github-contribution-grid-snake.svg)
